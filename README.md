@@ -5,7 +5,7 @@ You can star this repository to keep track of the project if it's helpful for yo
 ```
 
 # Contents
-- Game1: [Bunnies and Badgers](https://github.com/CharlesPikachu/Games/tree/master/Game1)
+- Game1: [Bunnies and B1adgers](https://github.com/CharlesPikachu/Games/tree/master/Game1)
 - Game2: [Pikachu Go Go Go~~~](https://github.com/CharlesPikachu/Games/tree/master/Game2)
 - Game3: [Puzzle pieces](https://github.com/CharlesPikachu/Games/tree/master/Game3)
 - Game4: [Skier](https://github.com/CharlesPikachu/Games/tree/master/Game4)
